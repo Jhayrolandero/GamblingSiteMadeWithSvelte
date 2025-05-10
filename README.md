@@ -1,0 +1,1 @@
+## Attempting to learn Svelte with by building a gambling site (it's a joke ofcourse)
